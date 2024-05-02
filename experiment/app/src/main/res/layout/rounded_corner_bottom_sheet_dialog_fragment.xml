@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/rounded_top_corners_background"
+
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 1" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 2" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 3" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 4" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 5" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 6" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 7" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 8" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 9" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 10" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 11" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 12" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 13" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Hello 14" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

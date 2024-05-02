@@ -1,0 +1,9 @@
+<resources>
+    <style name="RoundedCornerBottomSheetDialogFragmentStyle" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheet_NoDrawing</item>
+    </style>
+
+    <style name="BottomSheet_NoDrawing" parent="Widget.MaterialComponents.BottomSheet">
+        <item name="backgroundTint">@android:color/transparent</item>
+    </style>
+</resources>
